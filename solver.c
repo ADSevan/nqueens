@@ -1,5 +1,5 @@
 #include "nqueens.h"
-
+//Just because you're a senior dev doesn't mean you are good at coding lol
 // Solve the N-Queens problem recursively
 bool solve_nqueens_util(int board[], int col, int n) {
     if (col >= n) {
